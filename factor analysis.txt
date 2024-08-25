@@ -1,0 +1,30 @@
+In a dendogram,
+
+bottom to top is agglomerative approach(all clusters are individual datapoints, based on 
+similarity we combine them)
+top to bottom is divisive approach(first all datapoints are single cluster, based on disimilarity
+we seperate them)
+
+
+
+With increase in number of features , there can be change of multicolinearity!
+
+If features are independent of each other then their is no multicolinearity
+(i.e., high correlation between features)
+High correlation between temp and weight!
+
+Factor Analysis:
+-Reducing dimensionality and shrinking dataset that is more manageable and more understandable!
+
+Regression:
+- tells the relatioship among variables and quantifies the relationship using set of equations.
+
+- Regression line placing itself in such that it will be equidistance between all samples!
+
+Factor Analysis:
+PCA- we calc the variance. variance is stdev pow 2
+The higher the variance the more the information
+the lower the variance the less the information 
+
+
+
